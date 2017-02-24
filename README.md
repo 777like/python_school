@@ -1,2 +1,2 @@
 # Repository for python training
-Сервисные Решения
+Сервисные Решения!
