@@ -23,21 +23,11 @@
       <file leaf-file-name="test_create_delete_group.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_create_delete_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="47" column="19" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="47" selection-end-column="19" />
+            <state relative-caret-position="259">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#24#82#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -62,8 +52,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="58" />
+    <option name="x" value="490" />
+    <option name="y" value="34" />
     <option name="width" value="1062" />
     <option name="height" value="783" />
   </component>
@@ -101,7 +91,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2221135" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -311,12 +301,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_create_delete_group - 2017.03.02 at 09h 04m 42s.xml">
-      <configuration name="Unittests in test_create_delete_group" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.02 at 09h 18m 57s.xml">
-      <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.02 at 09h 21m 58s.xml">
       <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
     </history-entry>
@@ -338,6 +322,15 @@
     <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.03 at 08h 47m 24s.xml">
       <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.03 at 09h 33m 02s.xml">
+      <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.08 at 09h 58m 14s.xml">
+      <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_create_delete_group_py - 2017.03.08 at 10h 41m 59s.xml">
+      <configuration name="py.test in test_create_delete_group.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="58" width="1062" height="783" extended-state="0" />
+    <frame x="490" y="34" width="1062" height="783" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2548828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -394,11 +387,36 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_create_delete_group.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_create_delete_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_create_delete_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -558,14 +576,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore.gitignore" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7225">
-          <caret line="438" column="8" lean-forward="false" selection-start-line="438" selection-start-column="8" selection-end-line="438" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -581,6 +591,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="189" column="28" lean-forward="true" selection-start-line="189" selection-start-column="28" selection-end-line="189" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -591,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_create_delete_group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="47" selection-end-column="19" />
+        <state relative-caret-position="259">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#24#82#0" expanded="true" />
           </folding>
