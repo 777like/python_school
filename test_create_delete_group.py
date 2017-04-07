@@ -17,6 +17,7 @@ class test_create_delete_group(unittest.TestCase):
     
     def test_create_group(self):
         wd = self.wd
+        wd.implicitly_wait(20)
         self.open_home_page(wd)
         self.login(wd, username="admin", password="secret")
         self.open_groups_page(wd)
@@ -26,6 +27,7 @@ class test_create_delete_group(unittest.TestCase):
 
     def test_empty_group(self):
         wd = self.wd
+        wd.implicitly_wait(20)
         self.open_home_page(wd)
         self.login(wd, username="admin", password="secret")
         self.open_groups_page(wd)
@@ -56,6 +58,7 @@ class test_create_delete_group(unittest.TestCase):
         wd.find_element_by_name("submit").click()
 
     def open_groups_page(self, wd):
+        # wd.implicitly_wait(2)
         wd.find_element_by_link_text("groups").click()
 
     def login(self, wd, username, password):
